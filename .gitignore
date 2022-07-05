@@ -1,12 +1,19 @@
-# Byte-compiled / optimized / DLL files
+# Adding Config.py File.
+config.py
+
+# Adding Additional Files.
+API-Practice.ipynb
+Random-Numbers.ipynb
+
+# Byte-Compiled / Optimized / DLL Files.
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# C Extensions.
 *.so
 
-# Distribution / packaging
+# Distribution / Packaging.
 .Python
 build/
 develop-eggs/
@@ -27,17 +34,17 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+# PyInstaller.
+#  Usually These Files Are Written By A Python Script From A Template
+#  Before PyInstaller Builds The Exe, So As To Inject Date/Other Information into it.
 *.manifest
 *.spec
 
-# Installer logs
+# Installer Logs.
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit Test / Coverage Reports.
 htmlcov/
 .tox/
 .nox/
@@ -51,57 +58,57 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# Translations
+# Translations.
 *.mo
 *.pot
 
-# Django stuff:
+# Django Stuff:
 *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-# Flask stuff:
+# Flask Stuff:
 instance/
 .webassets-cache
 
-# Scrapy stuff:
+# Scrapy Stuff:
 .scrapy
 
-# Sphinx documentation
+# Sphinx Documentation.
 docs/_build/
 
-# PyBuilder
+# PyBuilder.
 target/
 
-# Jupyter Notebook
+# Jupyter Notebook.
 .ipynb_checkpoints
 
 # IPython
 profile_default/
 ipython_config.py
 
-# pyenv
+# PyEnv.
 .python-version
 
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
+# PipEnv
+#   According To Pypa/PipEnv#598, It Is Recommended To Include Pipfile.lock In Version Control.
+#   However, In Case Of Collaboration, If Having Platform-Specific Dependencies Or Dependencies
+#   Having No Cross-Platform Support, PipEnv May Install Dependencies That Don't Work, Or Not
+#   Install All Needed Dependencies.
+#Pipfile.lock.
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+# PEP 582; Used by e.g. github.com/David-OConnor/pyflow. 
 __pypackages__/
 
-# Celery stuff
+# Celery Stuff.
 celerybeat-schedule
 celerybeat.pid
 
-# SageMath parsed files
+# SageMath Parsed Files.
 *.sage.py
 
-# Environments
+# Environments.
 .env
 .venv
 env/
@@ -110,20 +117,20 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Spyder Project Settings.
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope Project Settings.
 .ropeproject
 
-# mkdocs documentation
+# MkDocs Documentation.
 /site
 
-# mypy
+# MyPy.
 .mypy_cache/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
+# Pyre Type Checker.
 .pyre/
